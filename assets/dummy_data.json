@@ -1,0 +1,47 @@
+{
+  "methods": [{
+    "sn": 1,
+    "transportation": "اسم وسيلة النقل",
+    "type": "سفن تجارية بضائع",
+    "nationality": "ألمانيا",
+    "status": "تحديد معاين",
+    "reviewer": "خليفة أحمد العبدالله",
+    "is_suspect": 1
+  },
+{
+  "sn": 2,
+  "transportation": "ثاني وسيلة النقل",
+  "type": "سفن تجارية بضائع",
+  "nationality": "تركيا",
+  "status": "تسجيل محضر",
+  "reviewer": "فيصل سلمان الوكيل",
+  "is_suspect": 0
+},
+{
+"sn": 3,
+"transportation": "ثالث وسيلة النقل",
+"type": "سفن تجارية بضائع",
+"nationality": "الصين",
+"status": "تحديد معاين",
+"reviewer": "خليفة أحمد العبدالله",
+"is_suspect": 0
+},
+{
+"sn": 4,
+"transportation": "رابع وسيلة النقل",
+"type": "سفن تجارية بضائع",
+"nationality": "السويد",
+"status": "تحديد معاين",
+"reviewer": "محمد عبدالرحمن الفهد",
+"is_suspect": 1
+},
+{
+"sn": 5,
+"transportation": "خامس وسيلة النقل",
+"type": "سفن تجارية بضائع",
+"nationality": "ألمانيا",
+"status": "تسجيل محضر",
+"reviewer": "خليفة أحمد العبدالله",
+"is_suspect": 1
+}]
+}
